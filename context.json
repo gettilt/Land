@@ -1,0 +1,442 @@
+{
+    "ADC": {
+        "chat_gpt": "Agree Realty Corporation focuses on the acquisition and development of properties leased to retailers, indirectly benefiting from land ownership through its retail locations.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://investorplace.com/2024/05/the-3-most-undervalued-reits-to-buy-in-may-2024/",
+                "title": "The 3 Most Undervalued REITs to Buy in May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "AMT": {
+        "chat_gpt": "American Tower Corporation owns and operates cell towers, indirectly benefiting from land ownership through leasing sites.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/articles/mortgages-real-estate/10/real-estate-investment-trust-reit.asp",
+                "title": "5 Types of REITs and How to Invest in Them",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "BAM": {
+        "chat_gpt": "Brookfield Asset Management invests in real assets, including real estate and infrastructure, indirectly benefiting from land ownership.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CBRE": {
+        "chat_gpt": "CBRE Group, Inc. provides real estate services and invests in real estate, indirectly benefiting from the value of land through its services.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CCI": {
+        "chat_gpt": "Crown Castle owns, operates, and leases more than 40,000 cell towers and approximately 80,000 route miles of fiber supporting small cells and fiber solutions, indirectly benefiting from land ownership.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-real-estate-stocks/",
+                "title": "10 Top Real Estate Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FPI": {
+        "chat_gpt": "Farmland Partners Inc. owns and aims to acquire high-quality farmland throughout North America, benefiting directly from the value of owning land.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/real-estate-investing/reit/farmland-reits/",
+                "title": "2 Best Farmland REITs to Watch",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/real-estate-investing/best-stocks/",
+                "title": "5 Best Real Estate Stocks in 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/blog/farmland-reit/",
+                "title": "Best Farmland REIT: ETFs and Stocks for Agriculture",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "FR": {
+        "chat_gpt": "First Industrial Realty Trust, Inc. owns and operates industrial real estate, benefiting from land ownership in key logistic locations.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "LAND": {
+        "chat_gpt": "Gladstone Land Corporation focuses on owning farmland, leasing it to farmers, and benefiting from the appreciation of land value.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.fool.com/investing/stock-market/market-sectors/real-estate-investing/reit/farmland-reits/",
+                "title": "2 Best Farmland REITs to Watch",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.wallstreetzen.com/blog/farmland-reit/",
+                "title": "Best Farmland REIT: ETFs and Stocks for Agriculture",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PCH": {
+        "chat_gpt": "PotlatchDeltic Corporation is involved in timberland management and real estate sales, directly benefiting from land ownership.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "PLD": {
+        "chat_gpt": "Prologis, Inc. is a leader in logistics real estate, owning valuable land in key logistics hubs.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-real-estate-stocks/",
+                "title": "10 Top Real Estate Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://www.investopedia.com/articles/mortgages-real-estate/10/real-estate-investment-trust-reit.asp",
+                "title": "5 Types of REITs and How to Invest in Them",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "REXR": {
+        "chat_gpt": "Rexford Industrial Realty, Inc. focuses on industrial properties in land-constrained markets, benefiting from the scarcity of land.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "SPG": {
+        "chat_gpt": "Simon Property Group, as the largest retail REIT, owns valuable land under its malls and outlets, benefiting from its real estate assets.",
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-real-estate-stocks/",
+                "title": "10 Top Real Estate Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "TRNO": {
+        "chat_gpt": "Terreno Realty Corporation focuses on acquiring, owning, and operating industrial real estate in major coastal markets, benefiting from land scarcity.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "WY": {
+        "chat_gpt": "Weyerhaeuser operates in the timberland business, owning substantial land that can be used for various purposes, including real estate development.",
+        "claude": null,
+        "search_articles": [],
+        "tweets": [],
+        "experts": []
+    },
+    "CPT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "DLR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-real-estate-stocks/",
+                "title": "10 Top Real Estate Stocks Of May 2024",
+                "youtube_embed_url": null
+            },
+            {
+                "url": "https://avanacuso.com/real-estate-stocks-best-reits-to-invest-in/",
+                "title": "Real Estate Stocks: Best REITs to Invest In",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "EQIX": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.forbes.com/advisor/investing/best-real-estate-stocks/",
+                "title": "10 Top Real Estate Stocks Of May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "CMG": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/FormFore/status/1786402586800599203",
+                "text": "C-Suite Insider Stock Trades (#ConsumerCyclical Sector)\nWeek of 2024-04-26\n\n$MHO $KMX $RCL $WINA $CMG https://t.co/wu4muf18Ky",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2024-05-03T14:29:01Z"
+            },
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1652760837063335936",
+                "text": "Some Leading Industry Groups With Stock Setups ~ \n\nRetail/Restaurants ~ $WING $CMG $SBUX $MDLZ $YUM \nHomebuilders ~ $TOL $PHM $LEN $MHO $TMHC \nApparel/Shoes ~ $ONON $SKX \nFinance/Payment Processors ~ $V $MA $STNE\nLeisure/Gaming ~ $LVS $DKNG $WYNN $BYD \nMedical/Biomed ~ $ACLX $TGTX $VKTX $MDGL \nGold Miners ~ $AU $AEM $AGI $NUGT $GDX",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2023-04-30T19:44:25Z"
+            },
+            {
+                "url": "https://twitter.com/FormFore/status/1655702892957818880",
+                "text": "Insider Trading: Largest Sales + Change In Company Ownership\n#ConsumerCyclical Sector\nWeek of 2023-04-28\n\n$MHO $WINA $NVR $XPEL $XPOF $PHM $CMG $ABNB $TMHC https://t.co/kRwoEBFeyn",
+                "username": "FormFore",
+                "user_url": "https://twitter.com/FormFore",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1571241569474183169/wkusRnHY_normal.jpg",
+                "date": "2023-05-08T22:35:05Z"
+            }
+        ],
+        "experts": []
+    },
+    "MHO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/johnscharts/status/1680573306896883712",
+                "text": "RS New High\n$DHI, $KBH, $LEN, $MDC, $MHO, $TMHC, $TOL \n#10 Industry https://t.co/7pax5nYlV3",
+                "username": "johnscharts",
+                "user_url": "https://twitter.com/johnscharts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1608791264400445440/BjF0S5XH_normal.jpg",
+                "date": "2023-07-16T13:41:14Z"
+            },
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1652760837063335936",
+                "text": "Some Leading Industry Groups With Stock Setups ~ \n\nRetail/Restaurants ~ $WING $CMG $SBUX $MDLZ $YUM \nHomebuilders ~ $TOL $PHM $LEN $MHO $TMHC \nApparel/Shoes ~ $ONON $SKX \nFinance/Payment Processors ~ $V $MA $STNE\nLeisure/Gaming ~ $LVS $DKNG $WYNN $BYD \nMedical/Biomed ~ $ACLX $TGTX $VKTX $MDGL \nGold Miners ~ $AU $AEM $AGI $NUGT $GDX",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2023-04-30T19:44:25Z"
+            },
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1749845140825342413",
+                "text": "Ugly action in the homebuilders today $DHI $ITB $DFH $KBH $MHO $BLDR \n\nRising rates always hurt this sector",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2024-01-23T17:22:46Z"
+            }
+        ],
+        "experts": []
+    },
+    "NVR": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/SaitoChung/status/1641872555853365248",
+                "text": "Market III: IBD #Leaderboard keeping a hawkeye on the #housing sector as interest rates cool. $MTH is a half position. $ITB clears a mini trendline within its handle on a deep cup. 68.80 seems a legit early entry.  $DHI $GRBK $NVR $MHO $TPH @IBD_KShreve @IBD_ECarson @IBD_DChung https://t.co/uwGc8R7JUW",
+                "username": "SaitoChung",
+                "user_url": "https://twitter.com/SaitoChung",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1640030359307055105/JxlOo-Y-_normal.jpg",
+                "date": "2023-03-31T18:38:16Z"
+            },
+            {
+                "url": "https://twitter.com/thiruvar/status/1642676779101085696",
+                "text": "Home Builders Industry Group is near the top: #3. It has breakouts: $MHO $TMHC $NVR $GRBK $BZH &amp; several setups: $MTH $KBH $LEN $PHM $TPH $DFH $TOL $DHI $CCS $MDC $LGIH . Fishing in this pond may be gainful!",
+                "username": "thiruvar",
+                "user_url": "https://twitter.com/thiruvar",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1156909525905002496/1Ozomzri_normal.jpg",
+                "date": "2023-04-02T23:53:58Z"
+            },
+            {
+                "url": "https://twitter.com/PeterBorgia/status/1639722402123841536",
+                "text": "Bldg-Resident/Comml Industry Ranked 3 of 197.  There are a number of stocks setting up nicely: $MTM $MHO $PHM $TPH $NVR $LEN $KBH $TMHC \u2026. Who are the leaders?  Will the fragility within the banking industry impact this group? The market is a forward looking entity. https://t.co/MyfVNVxVGf",
+                "username": "PeterBorgia",
+                "user_url": "https://twitter.com/PeterBorgia",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1727003826450726925/h-SecBS3_normal.jpg",
+                "date": "2023-03-25T20:14:19Z"
+            }
+        ],
+        "experts": []
+    },
+    "PHM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1652760837063335936",
+                "text": "Some Leading Industry Groups With Stock Setups ~ \n\nRetail/Restaurants ~ $WING $CMG $SBUX $MDLZ $YUM \nHomebuilders ~ $TOL $PHM $LEN $MHO $TMHC \nApparel/Shoes ~ $ONON $SKX \nFinance/Payment Processors ~ $V $MA $STNE\nLeisure/Gaming ~ $LVS $DKNG $WYNN $BYD \nMedical/Biomed ~ $ACLX $TGTX $VKTX $MDGL \nGold Miners ~ $AU $AEM $AGI $NUGT $GDX",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2023-04-30T19:44:25Z"
+            },
+            {
+                "url": "https://twitter.com/thiruvar/status/1642676779101085696",
+                "text": "Home Builders Industry Group is near the top: #3. It has breakouts: $MHO $TMHC $NVR $GRBK $BZH &amp; several setups: $MTH $KBH $LEN $PHM $TPH $DFH $TOL $DHI $CCS $MDC $LGIH . Fishing in this pond may be gainful!",
+                "username": "thiruvar",
+                "user_url": "https://twitter.com/thiruvar",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1156909525905002496/1Ozomzri_normal.jpg",
+                "date": "2023-04-02T23:53:58Z"
+            },
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1643051341114212352",
+                "text": "Not many talking about how good the homebuilder stocks are acting right now. Sector of up trending names getting tight on the right side of their bases ~ $KBH $PHM $LEN $NAIL $MHO $MTH $TOL to name a few.",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2023-04-04T00:42:20Z"
+            }
+        ],
+        "experts": []
+    },
+    "TMHC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [],
+        "tweets": [
+            {
+                "url": "https://twitter.com/johnscharts/status/1680573306896883712",
+                "text": "RS New High\n$DHI, $KBH, $LEN, $MDC, $MHO, $TMHC, $TOL \n#10 Industry https://t.co/7pax5nYlV3",
+                "username": "johnscharts",
+                "user_url": "https://twitter.com/johnscharts",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1608791264400445440/BjF0S5XH_normal.jpg",
+                "date": "2023-07-16T13:41:14Z"
+            },
+            {
+                "url": "https://twitter.com/ConnorJBates_/status/1652760837063335936",
+                "text": "Some Leading Industry Groups With Stock Setups ~ \n\nRetail/Restaurants ~ $WING $CMG $SBUX $MDLZ $YUM \nHomebuilders ~ $TOL $PHM $LEN $MHO $TMHC \nApparel/Shoes ~ $ONON $SKX \nFinance/Payment Processors ~ $V $MA $STNE\nLeisure/Gaming ~ $LVS $DKNG $WYNN $BYD \nMedical/Biomed ~ $ACLX $TGTX $VKTX $MDGL \nGold Miners ~ $AU $AEM $AGI $NUGT $GDX",
+                "username": "ConnorJBates_",
+                "user_url": "https://twitter.com/ConnorJBates_",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1771387809410011136/zIc7OXch_normal.jpg",
+                "date": "2023-04-30T19:44:25Z"
+            },
+            {
+                "url": "https://twitter.com/thiruvar/status/1642676779101085696",
+                "text": "Home Builders Industry Group is near the top: #3. It has breakouts: $MHO $TMHC $NVR $GRBK $BZH &amp; several setups: $MTH $KBH $LEN $PHM $TPH $DFH $TOL $DHI $CCS $MDC $LGIH . Fishing in this pond may be gainful!",
+                "username": "thiruvar",
+                "user_url": "https://twitter.com/thiruvar",
+                "user_image_url": "https://pbs.twimg.com/profile_images/1156909525905002496/1Ozomzri_normal.jpg",
+                "date": "2023-04-02T23:53:58Z"
+            }
+        ],
+        "experts": []
+    },
+    "DOC": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "IRM": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://investorplace.com/2024/05/the-3-most-undervalued-reits-to-buy-in-may-2024/",
+                "title": "The 3 Most Undervalued REITs to Buy in May 2024",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "MAA": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SHO": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    },
+    "SKT": {
+        "chat_gpt": null,
+        "claude": null,
+        "search_articles": [
+            {
+                "url": "https://www.benzinga.com/real-estate/reit/24/05/38741285/7-reits-receive-analyst-upgrades-in-the-first-week-of-may",
+                "title": "7 REITs Receive Analyst Upgrades In The First Week Of May - Camden Prop \nTrust (NYSE:CPT), American Tower",
+                "youtube_embed_url": null
+            }
+        ],
+        "tweets": [],
+        "experts": []
+    }
+}
