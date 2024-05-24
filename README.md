@@ -5,6 +5,7 @@ with open('config.json') as file:
   config = json.load(file)
   cog.outl(f"# {config['name'].title()}")
 ]]]-->
+# Land
 <!--//[[[end]]]-->
 
 ## Mission
@@ -20,6 +21,7 @@ with open('config.json') as file:
   config = json.load(file)
   cog.outl(config['prompt'])
 ]]]-->
+Land is shrinking in the world, yet it is the only hard asset that has any value, protected from inflation and regulation. Any companies that own land will win.
 <!--[[[end]]]-->
 
 ## Theme Stocks
@@ -51,6 +53,40 @@ with open('theme.csv') as file:
     context_str = _get_context_str_for_ticker(row[0])
     cog.outl(f"| {row[0]} | {context_str} | {row[1]} |")
 ]]]-->
+| Ticker  | Context | Source |
+| ------- | ---- | ---- |
+| ADC | Agree Realty Corporation focuses on the acquisition and development of properties leased to retailers, indirectly benefiting from land ownership through its retail locations. | chat_gpt,google |
+| AMT | American Tower Corporation owns and operates cell towers, indirectly benefiting from land ownership through leasing sites. | chat_gpt,claude,google |
+| BAM | Brookfield Asset Management invests in real assets, including real estate and infrastructure, indirectly benefiting from land ownership. | chat_gpt |
+| CBRE | CBRE Group, Inc. provides real estate services and invests in real estate, indirectly benefiting from the value of land through its services. | chat_gpt |
+| CCI | Crown Castle owns, operates, and leases more than 40,000 cell towers and approximately 80,000 route miles of fiber supporting small cells and fiber solutions, indirectly benefiting from land ownership. | chat_gpt,claude,google |
+| FPI | Farmland Partners Inc. owns and aims to acquire high-quality farmland throughout North America, benefiting directly from the value of owning land. | chat_gpt,google |
+| FR | First Industrial Realty Trust, Inc. owns and operates industrial real estate, benefiting from land ownership in key logistic locations. | chat_gpt |
+| LAND | Gladstone Land Corporation focuses on owning farmland, leasing it to farmers, and benefiting from the appreciation of land value. | chat_gpt,claude,google |
+| PCH | PotlatchDeltic Corporation is involved in timberland management and real estate sales, directly benefiting from land ownership. | chat_gpt,claude,google |
+| PLD | Prologis, Inc. is a leader in logistics real estate, owning valuable land in key logistics hubs. | chat_gpt,google |
+| REXR | Rexford Industrial Realty, Inc. focuses on industrial properties in land-constrained markets, benefiting from the scarcity of land. | chat_gpt |
+| SPG | Simon Property Group, as the largest retail REIT, owns valuable land under its malls and outlets, benefiting from its real estate assets. | chat_gpt,google |
+| TRNO | Terreno Realty Corporation focuses on acquiring, owning, and operating industrial real estate in major coastal markets, benefiting from land scarcity. | chat_gpt |
+| WY | Weyerhaeuser operates in the timberland business, owning substantial land that can be used for various purposes, including real estate development. | chat_gpt,claude |
+| CPT |  | claude,google |
+| DLR |  | claude,google |
+| EQIX |  | claude,google |
+| GLPI |  | claude |
+| NXRT |  | claude |
+| RYN |  | claude |
+| SBAC |  | claude |
+| VICI |  | claude |
+| CMG |  | twitter |
+| MHO |  | twitter |
+| NVR |  | twitter |
+| PHM |  | twitter |
+| TMHC |  | twitter |
+| DOC |  | google |
+| IRM |  | google |
+| MAA |  | google |
+| SHO |  | google |
+| SKT |  | google |
 <!--[[[end]]]-->
 
 ## License
@@ -74,6 +110,9 @@ with open('config.json') as file:
   cog.outl(f'  <img src="https://contrib.rocks/image?repo=gettilt/{repo}" />')
   cog.outl('</a>')
 ]]]-->
+<a href="https://github.com/gettilt/land/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gettilt/land" />
+</a>
 <!--[[[end]]]-->
 
 ## Join Our Community
